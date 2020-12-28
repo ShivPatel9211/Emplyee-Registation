@@ -17,7 +17,6 @@ Jinja2==2.11.1
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mysqlclient @ file:///E:/mysqlclient-1.4.6-cp38-cp38-win32.whl
 numpy==1.18.5
 Pillow==7.2.0
 pylint==2.5.3
